@@ -1,0 +1,102 @@
+{
+	"WrapPlus.break_on_hyphens": false,
+	"added_words":
+	[
+		"architected",
+		"middleware",
+		"makespan",
+		"Collider",
+		"workflow",
+		"Multitenancy",
+		"multitenancy",
+		"homonymous",
+		"Plugins",
+		"interoperably",
+		"programmatically",
+		"workflows",
+		"Glidein",
+		"Startd",
+		"Schedd",
+		"Frontend",
+		"glidein",
+		"glideins",
+		"outmost",
+		"Interoperable",
+		"prioritization",
+		"interoperable",
+		"Turilli"
+	],
+	"auto_complete": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"color_scheme": "Packages/User/Solarized (Light) (SL).tmTheme",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"draw_minimap_border": true,
+	"enable_telemetry": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc",
+		"*.git"
+	],
+	"find_selected_text": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_size": 12,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active",
+		"draw_normal"
+	],
+	"indent_to_bracket": true,
+	"match_brackets": true,
+	"match_brackets_angle": false,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"new_window_settings":
+	{
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"preview_on_click": false,
+	"remember_open_files": true,
+	"remember_open_folders": true,
+	"rulers":
+	[
+		79
+	],
+	"save_on_focus_lost": true,
+	"shift_tab_unindent": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wide_caret": true,
+	"wrap_width": 79
+}
